@@ -1,4 +1,4 @@
-
+ 
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
@@ -368,7 +368,7 @@
 
       <div class="embed-box">
         <iframe
-          src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+          src="https://youtu.be/VjDYK4ZLXR8?si=wWNTwtvO2_qRNefJ"
           title="Renungan Paskah"
           allowfullscreen>
         </iframe>
