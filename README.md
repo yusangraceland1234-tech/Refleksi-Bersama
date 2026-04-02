@@ -1,5 +1,4 @@
 
-<html lang="id">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
@@ -319,7 +318,7 @@
 
       <div class="btn-group">
         <a href="#renungan" class="btn btn-primary">Baca Renungan</a>
-        <a href="#embed" class="btn btn-outline">Lihat Video / Embed</a>
+        <a href="#embed" class="btn btn-outline">Lihat Renungan</a>
       </div>
     </div>
   </section>
