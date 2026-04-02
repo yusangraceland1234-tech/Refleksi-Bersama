@@ -1,4 +1,5 @@
- 
+<!DOCTYPE html>
+<html lang="id">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
@@ -233,7 +234,6 @@
       font-size: 0.95rem;
     }
 
-    /* Tablet */
     @media (min-width: 768px) {
       .hero {
         min-height: 88vh;
@@ -253,7 +253,6 @@
       }
     }
 
-    /* Smartphone kecil */
     @media (max-width: 480px) {
       .hero {
         min-height: 72vh;
@@ -305,9 +304,8 @@
     }
   </style>
 </head>
-<body>
+<body id="top">
 
-  <!-- HERO -->
   <section class="hero">
     <div class="hero-content">
       <h1>Renungan Paskah</h1>
@@ -323,7 +321,6 @@
     </div>
   </section>
 
-  <!-- KONTEN -->
   <main class="container">
     <h2 class="section-title">Tema Paskah</h2>
     <p class="section-subtitle">
@@ -331,7 +328,6 @@
       bagi Tuhan untuk ubah menjadi awal yang penuh pengharapan.
     </p>
 
-    <!-- RENUNGAN -->
     <section class="card" id="renungan">
       <h2>Yesus Telah Bangkit</h2>
       <p>
@@ -358,24 +354,21 @@
       </div>
     </section>
 
-    <!-- EMBED -->
     <section class="card embed-section" id="embed">
-      <h2>Renungan / Video Paskah</h2>
+      <h2>Renungan / Flipbook Paskah</h2>
       <p>
-        Bagian ini bisa kamu isi dengan video YouTube, khotbah, pujian rohani,
-        atau halaman renungan lain menggunakan embed link.
+        Berikut adalah renungan Paskah yang bisa dibaca langsung dari halaman ini.
       </p>
 
       <div class="embed-box">
         <iframe
-          src="https://youtu.be/VjDYK4ZLXR8?si=wWNTwtvO2_qRNefJ"
+          src="https://heyzine.com/flip-book/868b5b107f.html"
           title="Renungan Paskah"
           allowfullscreen>
         </iframe>
       </div>
     </section>
 
-    <!-- CTA -->
     <section class="card cta-box">
       <h2>Doa Singkat</h2>
       <p>
@@ -629,7 +622,6 @@
       font-size: 0.95rem;
     }
 
-    /* Tablet */
     @media (min-width: 768px) {
       .hero {
         min-height: 88vh;
@@ -649,7 +641,6 @@
       }
     }
 
-    /* Smartphone kecil */
     @media (max-width: 480px) {
       .hero {
         min-height: 72vh;
@@ -701,9 +692,8 @@
     }
   </style>
 </head>
-<body>
+<body id="top">
 
-  <!-- HERO -->
   <section class="hero">
     <div class="hero-content">
       <h1>Renungan Paskah</h1>
@@ -714,12 +704,11 @@
 
       <div class="btn-group">
         <a href="#renungan" class="btn btn-primary">Baca Renungan</a>
-        <a href="#embed" class="btn btn-outline">Lihat Video / Embed</a>
+        <a href="#embed" class="btn btn-outline">Lihat Renungan</a>
       </div>
     </div>
   </section>
 
-  <!-- KONTEN -->
   <main class="container">
     <h2 class="section-title">Tema Paskah</h2>
     <p class="section-subtitle">
@@ -727,7 +716,6 @@
       bagi Tuhan untuk ubah menjadi awal yang penuh pengharapan.
     </p>
 
-    <!-- RENUNGAN -->
     <section class="card" id="renungan">
       <h2>Yesus Telah Bangkit</h2>
       <p>
@@ -754,12 +742,10 @@
       </div>
     </section>
 
-    <!-- EMBED -->
     <section class="card embed-section" id="embed">
-      <h2>Renungan / Video Paskah</h2>
+      <h2>Renungan / Flipbook Paskah</h2>
       <p>
-        Bagian ini bisa kamu isi dengan video YouTube, khotbah, pujian rohani,
-        atau halaman renungan lain menggunakan embed link.
+        Berikut adalah renungan Paskah yang bisa dibaca langsung dari halaman ini.
       </p>
 
       <div class="embed-box">
@@ -771,7 +757,6 @@
       </div>
     </section>
 
-    <!-- CTA -->
     <section class="card cta-box">
       <h2>Doa Singkat</h2>
       <p>
